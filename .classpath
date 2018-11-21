@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="收银系统_新/OrderSystem/src"/>
+	<classpathentry kind="src" path="收银系统_新/OwnerSystem/OwnerSystem/src"/>
+	<classpathentry kind="lib" path="__MACOSX/收银系统_新/lib/._mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/收银系统_新/OrderSystem/dist/._OrderSystem.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/收银系统_新/OrderSystem/dist/lib/._mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/收银系统_新/OwnerSystem/OwnerSystem/dist/._OwnerSystem.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/收银系统_新/OwnerSystem/OwnerSystem/dist/lib/._mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="收银系统_新/lib/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="收银系统_新/OrderSystem/dist/lib/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="收银系统_新/OrderSystem/dist/OrderSystem.jar"/>
+	<classpathentry kind="lib" path="收银系统_新/OwnerSystem/OwnerSystem/dist/lib/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="收银系统_新/OwnerSystem/OwnerSystem/dist/OwnerSystem.jar"/>
+	<classpathentry kind="output" path="收银系统_新/OrderSystem/build/classes"/>
+</classpath>
